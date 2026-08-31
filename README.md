@@ -118,6 +118,5 @@ Being upfront about where this tool falls short:
 
 This is meant for research using information that's already public. It respects robots.txt and rate limits by default, doesn't try to get around CAPTCHAs or logins, and doesn't collect passwords or private data. Treat everything it outputs as a research aid to verify, not a finished fact — that's exactly why every claim links back to where it came from.
 
-## License
 
-Add your preferred license here.
+
