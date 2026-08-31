@@ -24,7 +24,7 @@ Everything stays traceable back to its source. Every entity, every relationship,
 ## Screenshots
 
 **Dashboard** — source/entity counts, coverage score, quick charts
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/example.png)
 
 **Sources** — every collected page, filterable and sortable by relevance/quality
 ![Sources](screenshots/sources.png)
